@@ -1,7 +1,6 @@
 public class BeerSong {
 
     public static void main (String [] args) {
-<<<<<<< HEAD
         BeerSong drinker = new BeerSong();
         drinker.Ninety_Nine_Bottle_of_Beer();
     }
@@ -16,13 +15,6 @@ public class BeerSong {
 
         System.out.println("1 bottle of beer on the wall, 1 bottle of beer");
         System.out.println("take one down, pass it around, no more bottles of beer on the wall.");
-=======
-
-    }
-
-    public void Ninety_Nine_Bottle_of_Beer() {
-        
->>>>>>> interface
 
     }
 
